@@ -1,5 +1,5 @@
 # Feedget
-A Feedback Widget developed during the NLW#7
+A Feedback Widget developed during the NLW Return
 
 <hr>
 <h4 align="center"> 
